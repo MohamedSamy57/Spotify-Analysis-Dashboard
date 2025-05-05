@@ -1,6 +1,8 @@
 # 🎵 Spotify Listening Analytics Dashboard  
 *A dynamic Power BI dashboard that transforms your Spotify streaming history into actionable insights—revealing your music habits, favorite artists, and hidden listening trends.*  
 
+![spotify_Analysis_Dashboard_page-0001](https://github.com/user-attachments/assets/6e3f3eb8-9e04-4cc6-98dd-4d40e7adc81d)
+
 ---
 
 ## 🌟 **Project Overview**  
