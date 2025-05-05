@@ -64,4 +64,4 @@ This isn’t just a dashboard—it’s a **mirror for your music soul**. Whether
 - **Email**: mohamedsamyomar55@gmail.com
 - **Portfolio**:https://mavenanalytics.io/project/32256
 
-*Made with ❤️ and too much coffee.*  
+*Made with ❤️ and too much ruthless precision.*  
